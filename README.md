@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hillbillynomad
 - 👀 I’m interested in ai
-- 🌱 I’m currently learning github
+- 🌱 I’m currently learning many things
 
 <!---
 hillbillynomad/hillbillynomad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
